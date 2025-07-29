@@ -35,5 +35,5 @@ This script uses your Instagram login credentials (entered directly into the scr
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ahmedrana603/Instagram-followers-of-followers-id.git
+   git clone https://github.com/ahmedrana603/Instagram-followers-of-followers.git
    cd instagram-follower-scraper
